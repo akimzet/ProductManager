@@ -10,5 +10,4 @@ Tools used
 - StyleCop
 - Docker
 
-<h4>Homepage</h4>
-![Alt Text](https://github.com/akimzet/ProductManager/blob/master/Images/Home.png)
+![Alt Text](Images/Home.png "Home page")
