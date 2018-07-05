@@ -10,4 +10,4 @@ Tools used
 - StyleCop
 - Docker
 
-![Alt Text](Images/Home.png "Home page")
+![Home Page](Images/Home.png)
