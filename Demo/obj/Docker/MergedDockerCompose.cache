@@ -1,0 +1,19 @@
+services:
+  demo:
+    build:
+      context: C:\Users\andrew.kim\Desktop\Demo
+      dockerfile: Demo/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTPS_PORT: '44326'
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: demo
+    ports:
+    - published: 62007
+      target: 80
+    - published: 44326
+      target: 443
+    volumes:
+    - C:\Users\andrew.kim\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\andrew.kim\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

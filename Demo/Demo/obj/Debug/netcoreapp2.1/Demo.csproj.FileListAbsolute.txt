@@ -1,0 +1,15 @@
+C:\Users\andrew.kim\Desktop\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.deps.json
+C:\Users\andrew.kim\Desktop\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.json
+C:\Users\andrew.kim\Desktop\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.dev.json
+C:\Users\andrew.kim\Desktop\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.dll
+C:\Users\andrew.kim\Desktop\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.pdb
+C:\Users\andrew.kim\Desktop\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\andrew.kim\Desktop\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.RazorAssemblyInfo.cache
+C:\Users\andrew.kim\Desktop\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.RazorAssemblyInfo.cs
+C:\Users\andrew.kim\Desktop\Demo\Demo\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\andrew.kim\Desktop\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfoInputs.cache
+C:\Users\andrew.kim\Desktop\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfo.cs
+C:\Users\andrew.kim\Desktop\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.RazorTargetAssemblyInfo.cache
+C:\Users\andrew.kim\Desktop\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.dll
+C:\Users\andrew.kim\Desktop\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.pdb
+C:\Users\andrew.kim\Desktop\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.csprojAssemblyReference.cache
