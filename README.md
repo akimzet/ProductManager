@@ -10,5 +10,8 @@ Tools used
 - StyleCop
 - Docker
 
-<h3>Home Page</3>
-![Home Page](Images/Home.png)
+![Home Page](Images/Home.png "Home Page")
+![Add Product](Images/AddProduct.png "Add Product")
+![Get Product by ID](Images/GetProductByID.png "Getting Product by ID")
+![Changing Product by ID](Images/ChangeProductByID.png "Changing Product by ID")
+![Delete Product](Images/DeleteProduct.png "Deleting Product by ID")
