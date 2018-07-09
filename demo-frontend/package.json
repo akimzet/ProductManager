@@ -1,23 +1,27 @@
 {
-  "name": "demo-frontend",
+  "name": "demo-frontend-typescript",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/react-bootstrap-table": "^4.3.4",
+    "@types/reactstrap": "^6.0.0",
     "react": "^16.4.1",
     "react-bootstrap-table": "^4.3.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4",
+    "react-scripts-ts": "2.16.0",
     "reactstrap": "^6.2.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
   },
   "devDependencies": {
-    "eslint-config-prettier": "^2.9.0",
-    "eslint-plugin-prettier": "^2.6.1",
-    "prettier": "^1.13.7"
+    "@types/jest": "^23.1.4",
+    "@types/node": "^10.5.2",
+    "@types/react": "^16.4.6",
+    "@types/react-dom": "^16.0.6",
+    "typescript": "^2.9.2"
   }
 }
