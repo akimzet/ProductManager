@@ -7,7 +7,6 @@ Created an API which interacts with the website created in ReactJS and the datab
 
 Tools used
 - Swagger
-- StyleCop
 - Docker
 
 ![Site](Images/GetAllProducts.png)
