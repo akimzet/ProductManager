@@ -1,9 +1,9 @@
 # ProductManager
 Created an API which interacts with the website created in ReactJS and the database.
 
-- Database: SQL Server in docker
-- API: ASP.net Core in docker
-- Frontend: ReactJS + TypeScript
+- Database: SQL Server (docker)
+- API: ASP.net Core (docker)
+- Frontend: ReactJS + TypeScript (local)
 
 Tools used
 - Swagger
